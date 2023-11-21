@@ -17,6 +17,14 @@ The structure of this repository is like below: android_telegram_ui
 The pictures of the app are:
 
 <div>
-  <img src="https://github.com/jaxon93/ImoUI/blob/master/light_mode_ui.png" width="20%" height="auto"/>
+  <img src="https://github.com/jaxon93/android_telegram_ui/blob/master/telegram_main_ui.png" width="20%" height="auto"/>
+</div>
+<div>
+  <h1>telegram_contacts_ui</h1>
+  <img src="https://github.com/jaxon93/android_telegram_ui/blob/master/telegram_contacts_ui.png" width="20% height="auto"/>
+  <h1>telegram_notifications_ui</h1>
+  <img src="https://github.com/jaxon93/android_telegram_ui/blob/master/telegram_notifications_ui.png" width="20% height="auto"/>
+  <h1>telegram_appearance_ui</h1>
+  <img src="https://github.com/jaxon93/android_telegram_ui/blob/master/telegram_appearance_ui.png" width="20% height="auto"/>
 </div>
 
