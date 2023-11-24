@@ -12,7 +12,12 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/telegram_appearance_java" />
+            <option value="$PROJECT_DIR$/telegram_appearance_kotlin" />
+            <option value="$PROJECT_DIR$/telegram_contacts_java" />
             <option value="$PROJECT_DIR$/telegram_contacts_kotlin" />
+            <option value="$PROJECT_DIR$/telegram_main_java" />
+            <option value="$PROJECT_DIR$/telegram_notifications_java" />
             <option value="$PROJECT_DIR$/telegram_notifications_kotlin" />
           </set>
         </option>
